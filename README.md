@@ -1,6 +1,6 @@
 Hello! 👋
 
-![image](https://github.com/user-attachments/assets/4970d94b-a0eb-4531-918c-2fd36ceea762)
+![gif](https://media3.giphy.com/media/3o7WTL4qQCbbLLV2Pm/200w.gif?cid=6c09b952os7hlhcjm3eitykavmg5pqihsvsvfkthqbv3e3vg&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 # My CV
 
