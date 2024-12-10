@@ -1,3 +1,7 @@
+Hello! 👋
+
+![image](https://github.com/user-attachments/assets/4970d94b-a0eb-4531-918c-2fd36ceea762)
+
 # My CV
 
 [Komisarenko_CV_SS.pdf](https://github.com/user-attachments/files/18076511/Komisarenko_CV_SS.pdf)
@@ -16,7 +20,7 @@ Postman collection
 
 ## Instruments and Technologies
 
-- GitHub, Figma, Jira, Confluence, Jira Zephyr, Postman, Swagger, DBeaver, MongoDBCompass, Miro, Drawio.
+- GitHub, Figma, Jira, Confluence, Jira Zephyr, Postman, Swagger, DBeaver, MongoDBCompass, Miro, Drawio, Discord, Telegram, .
 
 ## Contacts
 
