@@ -20,7 +20,7 @@ Postman collection
 
 ## Instruments and Technologies
 
-- GitHub, Figma, Jira, Confluence, Jira Zephyr, Postman, Swagger, DBeaver, MongoDBCompass, Miro, Drawio, Discord, Telegram, .
+- GitHub, Figma, Jira, Confluence, Jira Zephyr, Postman, Swagger, DBeaver, MongoDBCompass, Miro, Drawio, Discord, Telegram.
 
 ## Contacts
 
