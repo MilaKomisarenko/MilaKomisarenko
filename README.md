@@ -10,10 +10,10 @@ Hello! 👋
 ## Portfolio
 
 Test documentation
-  - [User Story](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22User+Story%22)
+  - [User Stories](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22User+Story%22)
   - [Test Cases](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22test+case%22)
-  - [Bug Reports 1](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3Abug)
-  - [Bug Reports 2](https://github.com/ita-social-projects/GreenCity/issues/created_by/MilaKomisarenko)
+  - [Bug Reports Project1](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3Abug)
+  - [Bug Reports Project2](https://github.com/ita-social-projects/GreenCity/issues/created_by/MilaKomisarenko)
 
 Postman collection
 - [Postman Collection](https://api.postman.com/collections/39773007-956a5514-4d45-4002-9238-26ee4133e7bf?access_key=PMAT-01JDM5HG0R15XWNJDE98FZK3BG)
