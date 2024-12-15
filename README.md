@@ -11,7 +11,7 @@ Hello! 👋
 
 Test documentation
   - [User Stories](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22User+Story%22)
-  - [Test Cases](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22test+case%22)
+  - [Test Cases Project1](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3A%22test+case%22)
   - [Bug Reports Project1](https://github.com/ita-social-projects/SpaceToStudy-Client/issues?q=is%3Aopen+is%3Aissue+author%3AMilaKomisarenko+label%3Abug)
   - [Bug Reports Project2](https://github.com/ita-social-projects/GreenCity/issues/created_by/MilaKomisarenko)
 
