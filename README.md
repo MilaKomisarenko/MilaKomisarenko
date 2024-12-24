@@ -2,11 +2,6 @@ Hello! 👋
 
 ![gif](https://media3.giphy.com/media/3o7WTL4qQCbbLLV2Pm/200w.gif?cid=6c09b952os7hlhcjm3eitykavmg5pqihsvsvfkthqbv3e3vg&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-# My CV
-
-[Komisarenko_CV_SS.pdf](https://github.com/user-attachments/files/18076511/Komisarenko_CV_SS.pdf)
-
-
 ## Portfolio
 
 Test documentation
